@@ -1,0 +1,76 @@
+@charset "UTF-8";
+
+/* basic - WantedSans */
+@font-face{
+    font-family:'WS';
+    font-weight:400;
+    src:url('../font/WantedSans-Regular.woff2') format('woff2');
+}
+@font-face{
+    font-family:'WS';
+    font-weight:500;
+    src:url('../font/WantedSans-Medium.woff2') format('woff2');
+}
+@font-face{
+    font-family:'WS';
+    font-weight:600;
+    src:url('../font/WantedSans-SemiBold.woff2') format('woff2');
+}
+@font-face{
+    font-family:'WS';
+    font-weight:700;
+    src:url('../font/WantedSans-Bold.woff2') format('woff2');
+}
+@font-face{
+    font-family:'WS';
+    font-weight:800;
+    src:url('../font/WantedSans-ExtraBold.woff2') format('woff2');
+}
+@font-face{
+    font-family:'WS';
+    font-weight:900;
+    src:url('../font/WantedSans-Black.woff2') format('woff2');
+}
+@font-face{
+    font-family:'WS';
+    font-weight:950;
+    src:url('../font/WantedSans-ExtraBlack.woff2') format('woff2');
+}
+
+/* title - GmarketSans*/
+@font-face{
+    font-family:'GS';
+    font-weight:200;
+    src:url('../font/GmarketSansLight.woff2') format('woff2'), url('../font/GmarketSansLight.woff') format('woff');
+}
+@font-face{
+    font-family:'GS';
+    font-weight:400;
+    src:url('../font/GmarketSansMedium.woff2') format('woff2'), url('../font/GmarketSansMedium.woff') format('woff');
+}
+@font-face{
+    font-family:'GS';
+    font-weight:600;
+    src:url('../font/GmarketSansBold.woff2') format('woff2'), url('../font/GmarketSansBold.woff') format('woff');
+}
+
+/* point - NanumPenScript */
+@font-face{
+    font-family:'NPS';
+    font-weight:400;
+    src:url('../font/NanumPenScript-Regular.woff') format('woff');
+}
+
+/* point - MoiraiOne */
+@font-face{
+    font-family:'MO';
+    font-weight:400;
+    src:url('../font/MoiraiOne-Regular.woff') format('woff');
+}
+
+/* point - HakgyoansimJiugae */
+@font-face{
+    font-family:'HJ';
+    font-weight:400;
+    src:url('../font/HakgyoansimJiugaeR.woff2') format('woff2'), url('../font/HakgyoansimJiugaeR.woff') format('woff');
+}
